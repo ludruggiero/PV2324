@@ -1,0 +1,45 @@
+Data del calcolo: mercoledì 8 novembre 2023 16:48:40 
+ 
+ 
+=============================================================================================================== 
+= Distinta base: PV2324_ES0400                                                                                = 
+=============================================================================================================== 
+ 
++----------+----------------------+----------+---------------------+---------------------------+--------------+ 
+| Numero   | Numero parte         | Quantità | Nomenclatura        | Materiale                 | Origine      | 
++----------+----------------------+----------+---------------------+---------------------------+--------------+ 
+| 1        | PV2324_ES04001       | 2        | SIDE_PLATE          | acciaio                   | Di produzion | 
+| 2        | PV2324_ES0402        | 2        | PULLEY              |                           | Di produzion | 
+| 3        | PV2324_ES0403        | 2        | PULLEY_PIN          |                           | Di produzion | 
+| 4        | PV2324_ES0404        | 1        | NUT_LOCK_PIN        |                           | Di produzion | 
+| 5        | PV2324_ES0405        | 1        | CRANE_HOOK          |                           | Di produzion | 
+| 6        | PV2324_ES0406        | 1        | HOOK_TRUNION        |                           | Di produzion | 
+| 7        | ASME B18.2.2 NUT 2_1 | 6        | SEMIFIN_HEX_NUT     |                           | Acquisto     | 
+| 8        | ASME B18.2.2 NUT 3 U | 1        | HEX_SLOTTED_NUT     |                           | Acquisto     | 
+| 9        | ANSI B18.22.1 WASHER | 2        | WASHER              |                           | Acquisto     | 
+| 10       | ASME B18.8.6M PIN 3. | 2        | COTTER_PIN          |                           | Acquisto     | 
++----------+----------------------+----------+---------------------+---------------------------+--------------+ 
+ 
+ 
+ 
+ 
+=============================================================================================================== 
+= Riepilogo di: PV2324_ES0400                                                                                 = 
+= Parti diverse: 10                                                                                           = 
+= Parti totali: 20                                                                                            = 
+=============================================================================================================== 
+ 
++----------+----------------------+----------+---------------------+--------------+---------------------------+ 
+| Numero   | Numero parte         | Quantità | Nomenclatura        | Origine      | Materiale                 | 
++----------+----------------------+----------+---------------------+--------------+---------------------------+ 
+| 1        | PV2324_ES04001       | 2        | SIDE_PLATE          | Di produzion | acciaio                   | 
+| 2        | PV2324_ES0402        | 2        | PULLEY              | Di produzion |                           | 
+| 3        | PV2324_ES0403        | 2        | PULLEY_PIN          | Di produzion |                           | 
+| 4        | PV2324_ES0404        | 1        | NUT_LOCK_PIN        | Di produzion |                           | 
+| 5        | PV2324_ES0405        | 1        | CRANE_HOOK          | Di produzion |                           | 
+| 6        | PV2324_ES0406        | 1        | HOOK_TRUNION        | Di produzion |                           | 
+| 7        | ASME B18.2.2 NUT 2_1 | 6        | SEMIFIN_HEX_NUT     | Acquisto     |                           | 
+| 8        | ASME B18.2.2 NUT 3 U | 1        | HEX_SLOTTED_NUT     | Acquisto     |                           | 
+| 9        | ANSI B18.22.1 WASHER | 2        | WASHER              | Acquisto     |                           | 
+| 10       | ASME B18.8.6M PIN 3. | 2        | COTTER_PIN          | Acquisto     |                           | 
++----------+----------------------+----------+---------------------+--------------+---------------------------+ 
