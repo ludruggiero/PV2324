@@ -1,0 +1,43 @@
+Data del calcolo: sabato 9 dicembre 2023 19:52:52 
+ 
+ 
+======================================================================================== 
+= Distinta base: PV2324_ES0300                                                         = 
+======================================================================================== 
+ 
++----------+----------+---------------------+---------------------------+--------------+ 
+| Numero   | Quantità | Nomenclatura        | Materiale                 | Origine      | 
++----------+----------+---------------------+---------------------------+--------------+ 
+| 1        | 1        | CORPO VALVOLA       | Iron                      | Di produzion | 
+| 2        | 2        | VITE A TEST A SVASA |                           | Acquisto     | 
+| 3        | 1        | PIATTO              | Alluminum                 | Di produzion | 
+| 4        | 1        | ALBERO              | Steel                     | Di produzion | 
+| 5        | 1        | LINGUETTA           |                           | Acquisto     | 
+| 6        | 1        | DISCO               | Steel                     | Di produzion | 
+| 7        | 3        | VITE A TEST A SVASA |                           | Acquisto     | 
+| 8        | 1        | MANOVELLA           | Steel                     | Di produzion | 
+| 9        | 1        | DADO A TESTA ESAGON |                           | Acquisto     | 
++----------+----------+---------------------+---------------------------+--------------+ 
+ 
+ 
+ 
+ 
+======================================================================================== 
+= Riepilogo di: PV2324_ES0300                                                          = 
+= Parti diverse: 9                                                                     = 
+= Parti totali: 12                                                                     = 
+======================================================================================== 
+ 
++----------+----------+---------------------+---------------------------+--------------+ 
+| Numero   | Quantità | Nomenclatura        | Materiale                 | Origine      | 
++----------+----------+---------------------+---------------------------+--------------+ 
+| 1        | 1        | CORPO VALVOLA       | Iron                      | Di produzion | 
+| 2        | 2        | VITE A TEST A SVASA |                           | Acquisto     | 
+| 3        | 1        | PIATTO              | Alluminum                 | Di produzion | 
+| 4        | 1        | ALBERO              | Steel                     | Di produzion | 
+| 5        | 1        | LINGUETTA           |                           | Acquisto     | 
+| 6        | 1        | DISCO               | Steel                     | Di produzion | 
+| 7        | 3        | VITE A TEST A SVASA |                           | Acquisto     | 
+| 8        | 1        | MANOVELLA           | Steel                     | Di produzion | 
+| 9        | 1        | DADO A TESTA ESAGON |                           | Acquisto     | 
++----------+----------+---------------------+---------------------------+--------------+ 
