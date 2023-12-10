@@ -1,0 +1,5 @@
+MODIFICA ORDINE COMPONENTI IN UN ALBERO
+edit->components->reorder logic tree
+
+GENERA NUMERAZIONE 
+barra destra->generate enumeration
