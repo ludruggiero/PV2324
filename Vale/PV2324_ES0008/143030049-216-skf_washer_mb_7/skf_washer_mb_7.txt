@@ -1,0 +1,11 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-05052017-112546";"";
+"REFERENCE";"MB 7";"";
+"TraceParts.PartVersion";"1.2.4";"";
+"TraceParts.InstanceId";"10-05052017-1125463G726XFKTA20MG4N76L31VSG7";"";
+"TraceParts.PartTitle";"MB(L) lock washers";"";
+"SUPPLIER";"SKF";"";
+"DESIGN";"MB(L) lock washers, Bore Ø 35 mm, Outside Ø 57 mm, Thickness 1.25 mm";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"MASS";"0.011";"";
